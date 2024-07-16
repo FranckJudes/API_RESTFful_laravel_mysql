@@ -1,6 +1,5 @@
-Voici un exemple de fichier `README.md` pour votre API RESTful Laravel :
 
-```markdown
+
 # Laravel RESTful API
 
 Cette application Laravel est une API RESTful simple pour gérer les articles (CRUD).
@@ -104,6 +103,4 @@ Les contributions sont les bienvenues ! Veuillez soumettre une pull request ou o
 ## Licence
 
 Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de détails.
-```
 
-Ce fichier `README.md` fournit une description complète de la configuration, de l'installation et de l'utilisation de votre API RESTful Laravel, ainsi que des exemples de requêtes pour tester les différentes routes de l'API.
